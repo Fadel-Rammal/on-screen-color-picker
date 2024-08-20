@@ -41,6 +41,10 @@ tkinter is included with Python, so you don’t need to install it separately.
 
 
 
+![image](https://github.com/user-attachments/assets/60242f09-0ae2-4240-b9dd-1231735e2ba4)
+
+
+
 After necessary requirements installed run the script using:
 
 python colorpicker.py
