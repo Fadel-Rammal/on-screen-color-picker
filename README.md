@@ -15,7 +15,7 @@ then the color will be updated immediately
 
 ### Installation Commands:
 
-You need to install python first then:
+You need to install python first then download required libraries using cmd:
 
 1-Pillow (PIL):
 
@@ -40,6 +40,13 @@ pip install pyperclip
 tkinter is included with Python, so you don’t need to install it separately.
 
 
+
+After necessary requirements installed run the script using:
+
+python colorpicker.py
+
+
+Ensure you are in the correct path running the file in cmd
 
 
 
