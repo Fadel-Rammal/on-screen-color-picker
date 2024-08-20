@@ -45,6 +45,7 @@ After necessary requirements installed run the script using:
 
 python colorpicker.py
 
+Or just double click the colorpicker.py file
 
 Ensure you are in the correct path running the file in cmd
 
